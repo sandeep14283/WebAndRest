@@ -1,1 +1,2 @@
 needs rest api for representations and a dispatecher servlet for view models.
+Thus need dispatcher servlet seperately.
